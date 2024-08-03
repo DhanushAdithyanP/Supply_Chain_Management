@@ -61,7 +61,7 @@ $dbname = "scms"; // The name of the database you created
 
 # Step 6: Run the Project
 Access the project in the browser:
-Open a web browser and go to http://localhost/SupplyChain. 
+Open a web browser and go to http://localhost/Supply_Chain_Management 
 In case you have changed the folder name, replace SupplyChain with the name of the folder you copied into htdocs.
 
 # Troubleshooting
