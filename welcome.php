@@ -48,6 +48,7 @@
         <h2>Made By: </h2>
         <h2>Krish Hashia U03NM21T006025</h2>
         <h2>P Dhanush Adithyan U03NM21T006034</h2>
+        <h2>Chetan Kumar M A U03NM21T040010</h2>
         <p>Click the button below to go to the login page.</p>
         <button class="redirect-button" onclick="redirectToLogin()">Go to Login</button>
     </div>
